@@ -7,14 +7,17 @@ Los ejemplos trabajan con datasets provenientes de Google Sheets y archivos tipo
 ### Procesamiento y Limpieza de Datos
   + *Normalización de fechas.*   
   + *Normalización y limpieza de texto.*
-  + *Eliminación de duplicados.* 
+  + *Eliminación de duplicados.*
+  + *Eliminacion Valores Nulos*
 ### Transformación y Agrupación
-+ Agrupación de columnas
-+ Agrupación y combinación de tablas      
++ *Agrupación por columnas*
++ *Agrupación o combinación de tablas* (JOIN)     
 ### Análisis Aplicado
-+ Análisis de crédito
-+ Simulaciones Motor Sobrecalentado
-      
++ *Análisis de crédito*
++ *Simulaciones Motor Sobrecalentado*
+
+
+
 ## Herramientas Usadas
       
 | Herramienta           | Uso principal                                |
